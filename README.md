@@ -1,7 +1,7 @@
 # Primer repo
 ## Contexto
 
-Laboratorio de **P.A** de la *mañana* con 1 commit
+Laboratorio de **P.A** de la *mañana* con varios commits
 
 > Hola soy un bloque
 
